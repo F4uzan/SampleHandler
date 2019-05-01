@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SampleHandler for Hg</string>
+    <string name="gesture_handler_name">SampleHandler</string>
+
+    <!-- Gesture directions -->
+    <string name="left">Swipe left</string>
+    <string name="right">Swipe right</string>
+    <string name="down">Swipe down</string>
+    <string name="up">Swipe up</string>
+    <string name="double_tap">Double tap</string>
+    <string name="tap">Tap</string>
+</resources>
